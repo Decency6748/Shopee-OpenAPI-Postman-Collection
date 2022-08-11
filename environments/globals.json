@@ -1,0 +1,127 @@
+{
+	"id": "e94a9f7e-e8ac-482d-8fdf-05d827234f34",
+	"values": [
+		{
+			"key": "token_get_endpoint",
+			"value": "/api/v2/auth/token/get",
+			"enabled": true
+		},
+		{
+			"key": "code_get_endpoint",
+			"value": "/api/v2/shop/auth_partner",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token_get_endpoint",
+			"value": "/api/v2/auth/access_token/get",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_shop_info_endpoint",
+			"value": "/api/v2/shop/get_shop_info",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_category_endpoint",
+			"value": "/api/v2/product/get_category",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_attributes_endpoint",
+			"value": "/api/v2/product/get_attributes",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "add_item_endpoint",
+			"value": "/api/v2/product/add_item",
+			"enabled": true
+		},
+		{
+			"key": "get_channel_list_endpoint",
+			"value": "/api/v2/logistics/get_channel_list",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_brand_list_endpoint",
+			"value": "/api/v2/product/get_brand_list",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_order_list_endpoint",
+			"value": "/api/v2/order/get_order_list",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_order_detail_endpoint",
+			"value": "/api/v2/order/get_order_detail",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "upload_image_endpoint",
+			"value": "/api/v2/media_space/upload_image",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "add_discount_endpoint",
+			"value": "/api/v2/discount/add_discount",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_tracking_info_endpoint",
+			"value": "/api/v2/logistics/get_tracking_info",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "update_stock_endpoint",
+			"value": "/api/v2/product/update_stock",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "update_item_endpoint",
+			"value": "/api/v2/product/update_item",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_warehouse_detail_endpoint",
+			"value": "/api/v2/shop/get_warehouse_detail",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "init_tier_variation_endpoint",
+			"value": "/api/v2/product/init_tier_variation",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_item_base_info_endpoint",
+			"value": "/api/v2/product/get_item_base_info",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "get_model_list_endpoint",
+			"value": "/api/v2/product/get_model_list",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-08-08T19:53:34.687Z",
+	"_postman_exported_using": "Postman/9.27.2"
+}
